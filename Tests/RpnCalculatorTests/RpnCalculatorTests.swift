@@ -2,7 +2,11 @@ import Foundation
 import XCTest
 import RpnCalculator
 
-class RpnCalculatorTests: XCTestCase {
+public class RpnCalculatorTests: XCTestCase {
+    public static var allTests = [
+        ("testSiteExample", testSiteExample)
+    ]
+
     func testSiteExample() {
         let calculator = RpnCalculator()
         calculator.evaluate("19 2.14 + 4.5 2 4.3 / - *")

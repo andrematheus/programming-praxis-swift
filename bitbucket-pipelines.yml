@@ -1,0 +1,7 @@
+image: andreroquem/swift-build
+
+pipelines:
+  default:
+    - step:
+        script:
+          - swift test
