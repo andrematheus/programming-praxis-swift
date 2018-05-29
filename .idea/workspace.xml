@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cff3c8c-6c35-4c23-a3ed-2feb78e8d9f5" name="Default" comment="Solves Rpn Calculator problem">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/programming-praxis-swift.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/programming_praxis_swift_Package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/xcode.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/RpnCalculator/RpnCalculator.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/RpnCalculatorExe/main.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/RpnCalculatorTests/RpnCalculatorTests.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Package.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Package.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/programming-praxis-swift/main.swift" beforeDir="false" />
+    </list>
+    <ignored path="$USER_HOME$/Library/Developer/Xcode/DerivedData/programming-praxis-swift-cfegvytgxicxjketwhvhoorfjiju/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="macos_x86_64" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="RpnCalculatorTests.swift" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/RpnCalculatorTests/RpnCalculatorTests.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#117#134#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.swift" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sources/RpnCalculatorExe/main.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RpnCalculator.swift" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sources/RpnCalculator/RpnCalculator.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Tests/RpnCalculatorTests/RpnCalculatorTests.swift" />
+        <option value="$PROJECT_DIR$/Sources/RpnCalculatorExe/main.swift" />
+        <option value="$PROJECT_DIR$/Sources/RpnCalculator/RpnCalculator.swift" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1882" />
+    <option name="y" value="42" />
+    <option name="width" value="798" />
+    <option name="height" value="864" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Cidr.FilesView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="programming-praxis-swift" type="1d218c8b:XcodeProjectNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="programming-praxis-swift" type="1d218c8b:XcodeProjectNode" />
+              <item name="Sources" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="programming-praxis-swift" type="1d218c8b:XcodeProjectNode" />
+              <item name="Sources" type="fcab9f18:XcodeViewNode" />
+              <item name="RpnCalculator" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="programming-praxis-swift" type="1d218c8b:XcodeProjectNode" />
+              <item name="Sources" type="fcab9f18:XcodeViewNode" />
+              <item name="RpnCalculatorExe" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="programming-praxis-swift" type="1d218c8b:XcodeProjectNode" />
+              <item name="Tests" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="programming-praxis-swift" type="1d218c8b:XcodeProjectNode" />
+              <item name="Tests" type="fcab9f18:XcodeViewNode" />
+              <item name="RpnCalculatorTests" type="fcab9f18:XcodeViewNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RpnCalculatorExe">
+    <configuration name="RpnCalculatorExe" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="programming-praxis-swift" TARGET_NAME="RpnCalculatorExe" CONFIG_NAME="Debug" SCHEME_NAME="RpnCalculatorExe" IS_LOCATION_SIMULATION_ALLOWED="true" RUN_TARGET_PROJECT_NAME="programming-praxis-swift" RUN_TARGET_NAME="RpnCalculatorExe" MAKE_ACTIVE="TRUE">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+    </configuration>
+    <configuration name="RpnCalculatorTests" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS_2="true" PROJECT_NAME="programming-praxis-swift" TARGET_NAME="RpnCalculatorTests" CONFIG_NAME="Debug" SCHEME_NAME="RpnCalculatorTests" IS_LOCATION_SIMULATION_ALLOWED="true" TEST_MODE="SUITE_TEST" XCODE_SKIPPED_TESTS_HASH_CODE="0" />
+    <list>
+      <item itemvalue="Application.programming-praxis-swift-Package" />
+      <item itemvalue="Application.RpnCalculatorExe" />
+      <item itemvalue="XCTest.RpnCalculatorTests" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cff3c8c-6c35-4c23-a3ed-2feb78e8d9f5" name="Default" comment="" />
+      <created>1527621847450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527621847450</updated>
+      <workItem from="1527621853993" duration="2973000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RpnCalculatorTests - 2018.05.29 at 16h 26m 26s.xml">
+      <configuration name="RpnCalculatorTests" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="RpnCalculatorTests - 2018.05.29 at 16h 28m 22s.xml">
+      <configuration name="RpnCalculatorTests" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="RpnCalculatorTests - 2018.05.29 at 16h 43m 18s.xml">
+      <configuration name="RpnCalculatorTests" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="RpnCalculatorTests - 2018.05.29 at 16h 44m 12s.xml">
+      <configuration name="RpnCalculatorTests" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="RpnCalculatorTests - 2018.05.29 at 16h 44m 47s.xml">
+      <configuration name="RpnCalculatorTests" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="RpnCalculatorTests - 2018.05.29 at 16h 45m 09s.xml">
+      <configuration name="RpnCalculatorTests" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2973000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1882" y="42" width="798" height="864" extended-state="0" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24952741" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.32897863" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32897863" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.77790976" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39904988" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Solves Rpn Calculator problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solves Rpn Calculator problem" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Sources/RpnCalculatorExe/main.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/RpnCalculatorTests/RpnCalculatorTests.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#117#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sources/RpnCalculator/RpnCalculator.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
