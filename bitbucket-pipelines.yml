@@ -1,4 +1,4 @@
-image: andreroquem/swift-build
+image: swift
 
 pipelines:
   default:

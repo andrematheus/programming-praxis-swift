@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cff3c8c-6c35-4c23-a3ed-2feb78e8d9f5" name="Default" comment="Bitbucket pipelines">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinuxMain.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitbucket-pipelines.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/RpnCalculatorTests/RpnCalculatorTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/RpnCalculatorTests/RpnCalculatorTests.swift" afterDir="false" />
-    </list>
+    <list default="true" id="5cff3c8c-6c35-4c23-a3ed-2feb78e8d9f5" name="Default" comment="" />
     <ignored path="$USER_HOME$/Library/Developer/Xcode/DerivedData/programming-praxis-swift-cfegvytgxicxjketwhvhoorfjiju/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,8 +61,8 @@
       <file leaf-file-name="Package.swift" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Package.swift">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+            <state relative-caret-position="240">
+              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -210,8 +204,16 @@
       <updated>1527621847450</updated>
       <workItem from="1527621853993" duration="2973000" />
       <workItem from="1527626989855" duration="978000" />
-      <workItem from="1527628137420" duration="2027000" />
+      <workItem from="1527628137420" duration="2124000" />
     </task>
+    <task id="LOCAL-00001" summary="Bitbucket pipelines">
+      <created>1527631820167</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527631820168</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -235,7 +237,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5978000" />
+    <option name="totallyTimeSpent" value="6075000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1891" y="23" width="880" height="864" extended-state="0" />
@@ -392,8 +394,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Package.swift">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        <state relative-caret-position="240">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
         </state>
       </provider>
     </entry>
