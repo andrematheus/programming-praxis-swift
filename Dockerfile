@@ -6,4 +6,4 @@ VOLUME /app
 
 WORKDIR /app
 
-RUN swift test
+CMD swift test
