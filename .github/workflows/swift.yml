@@ -16,7 +16,7 @@ jobs:
 
     steps:
     - name: Setup Swift
-      uses: fwal/setup-swift@v1.3.0
+      uses: YOCKOW/Action-setup-swift@v1.1.9
       with:
         swift-version: 5.3
     - uses: actions/checkout@v2
