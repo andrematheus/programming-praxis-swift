@@ -13,10 +13,10 @@ enum OperationError: Error, LocalizedError {
 typealias Operation = ([Double]) throws -> [Double]
 
 func binaryOperation(_ op: @escaping  (Double, Double) -> Double) -> Operation {
-    return { (originalStack: [Double]) in
+    { (originalStack: [Double]) in
         var stack = originalStack
-        if let x = stack.popLast(),
-           let y = stack.popLast() {
+        if let y = stack.popLast(),
+           let x = stack.popLast() {
             let z = op(x, y)
             stack.append(z)
             return stack
@@ -31,22 +31,20 @@ public class RpnCalculator {
     var operations: [String: Operation] = [:]
 
     public init() {
-        operations["+"] = binaryOperation { x, y in
-            y + x
-        }
-        operations["-"] = binaryOperation { x, y in
-            y - x
-        }
-        operations["*"] = binaryOperation { x, y in
-            y * x
-        }
-        operations["/"] = binaryOperation { x, y in
-            y / x
+        let operationsBySymbol: [String:(Double, Double) -> Double] = [
+            "+": (+),
+            "-": (-),
+            "*": (*),
+            "/": (/)
+        ]
+
+        for (symbol, operation) in operationsBySymbol {
+            operations[symbol] = binaryOperation(operation)
         }
     }
 
     public var top: Double? {
-        return stack.last
+        stack.last
     }
 
     public func evaluate(_ input: String) {
