@@ -6,4 +6,6 @@ VOLUME /app
 
 WORKDIR /app
 
-CMD swift test
+COPY . /app
+
+CMD swift test --enable-test-discovery

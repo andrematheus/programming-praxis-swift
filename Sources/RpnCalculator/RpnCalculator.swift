@@ -1,6 +1,6 @@
 import Foundation
 
-enum OperationError: Error, LocalizedError {
+public enum OperationError: Error, LocalizedError, Equatable {
     case StackHasNotEnoughOperands(Int, Int)
     public var errorDescription: String? {
         switch self {
@@ -47,14 +47,17 @@ public class RpnCalculator {
         stack.last
     }
 
+    private(set) public var lastError: OperationError?
+
     public func evaluate(_ input: String) {
         for token in input.split(separator: " ") {
             if let operation = operations[String(token)] {
                 do {
                     let stack = try operation(self.stack)
                     self.stack = stack
-                } catch let err where err is OperationError {
-                    print(err.localizedDescription)
+                } catch let error as OperationError {
+                    print(error.localizedDescription)
+                    self.lastError = error
                 } catch {
                     print("Unknown error.")
                 }

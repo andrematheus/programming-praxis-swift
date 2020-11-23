@@ -1,7 +1,0 @@
-image: swift
-
-pipelines:
-  default:
-    - step:
-        script:
-          - swift test
